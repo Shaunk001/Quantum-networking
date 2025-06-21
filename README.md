@@ -122,6 +122,17 @@ We’re raising **$15,000–$25,000 in pre-seed funding** to build and launch ou
 
 ---
 
+## 🤝 Looking for Early Support
+
+We’re currently in the ideation stage of Q0 — the first social platform for quantum professionals.
+
+If this vision excites you and you'd like to:
+- Share your thoughts
+- Collaborate
+- Join as an early contributor or supporter
+
+---
+
 ## 👤 Founder
 
 **Arslan (Shaun)**  
