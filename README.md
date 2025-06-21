@@ -87,7 +87,7 @@ Early adopters who are technical, global, and eager to connect.
 
 ---
 
-## 💸 Business Model
+## 💸 Business Model to make this sustainable without more funding
 
 Hybrid B2B + B2C
 
