@@ -5,7 +5,7 @@ We are building a social, learning and career platform for global quantum profes
 # Q0: The Quantum Social Platform
 
 Q0 is the first integrated platform built exclusively for quantum professionals — connecting talent, knowledge, and opportunity in one place.  
-Think **LinkedIn + AngelList + Coursera**, but focused entirely on the quantum world.
+Think **LinkedIn + Reddit + Coursera**, but focused entirely on the quantum world.
 
 ---
 
@@ -99,12 +99,12 @@ Hybrid B2B + B2C
 
 ---
 
-## 📊 Current Progress
+## 📊 Early Traction
 
-- Legal: US-based LLC formed  
-- Market: Strong demand validated through research  
-- Advantage: Based in Pakistan — efficient dev talent  
-- Founder: Clear vision, ready to scale  
+- Founder of QuantumJobs.us (live and growing)  
+- Background in engineering and international study  
+- Deep personal story of struggling to learn quantum  
+- Users are reaching out with the very problems I’m building to solve  
 
 ---
 
